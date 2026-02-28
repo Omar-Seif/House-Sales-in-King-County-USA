@@ -157,6 +157,7 @@ project/
 
 ## 📬 Author
 
-Omar Seif
-LinkedIn: [https://www.linkedin.com/in/omar-farahat-313987277/](https://www.linkedin.com/in/omar-farahat-313987277/)
-GitHub: [Omar Seif](https://github.com/Omar-Seif)
+Omar Seif    
+LinkedIn: [https://www.linkedin.com/in/omar-farahat-313987277/](https://www.linkedin.com/in/omar-farahat-313987277/)      
+GitHub: [Omar Seif](https://github.com/Omar-Seif)      
+
