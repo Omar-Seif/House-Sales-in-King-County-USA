@@ -1,0 +1,100 @@
+{
+  "bounds": {
+    "min_lat": 47.1559,
+    "max_lat": 47.7776,
+    "min_long": -122.519,
+    "max_long": -121.315
+  },
+  "clusters": [
+    {
+      "id": 0,
+      "name": "Snoqualmie Pass / North Bend area (east King County, unincorporated)",
+      "centroid_lat": 47.55368228699552,
+      "centroid_long": -121.87700224215247
+    },
+    {
+      "id": 1,
+      "name": "Magnolia / Interbay (Seattle)",
+      "centroid_lat": 47.69354253003854,
+      "centroid_long": -122.34176331897528
+    },
+    {
+      "id": 2,
+      "name": "Renton / Earlington Hills",
+      "centroid_lat": 47.32427948717949,
+      "centroid_long": -122.3230187110187
+    },
+    {
+      "id": 3,
+      "name": "Madrona / Leschi (Seattle)",
+      "centroid_lat": 47.605601456027955,
+      "centroid_long": -122.15344205008736
+    },
+    {
+      "id": 4,
+      "name": "Tukwila / Skyway",
+      "centroid_lat": 47.470583560477,
+      "centroid_long": -122.31022061328791
+    },
+    {
+      "id": 5,
+      "name": "Rainier Beach / Dunlap (Seattle)",
+      "centroid_lat": 47.481239835164835,
+      "centroid_long": -122.17140714285715
+    },
+    {
+      "id": 6,
+      "name": "Black Diamond / Lake Wilderness",
+      "centroid_lat": 47.216508366533866,
+      "centroid_long": -121.99852988047809
+    },
+    {
+      "id": 7,
+      "name": "Hobart / Lake Morton",
+      "centroid_lat": 47.49057782258065,
+      "centroid_long": -121.73289516129033
+    },
+    {
+      "id": 8,
+      "name": "Kent / Lea Hill",
+      "centroid_lat": 47.37145885558583,
+      "centroid_long": -122.04439782016348
+    },
+    {
+      "id": 9,
+      "name": "Bryant / Wedgwood (Seattle)",
+      "centroid_lat": 47.71195123404255,
+      "centroid_long": -122.04798212765958
+    },
+    {
+      "id": 10,
+      "name": "Phinney Ridge / Green Lake (Seattle)",
+      "centroid_lat": 47.72772650029709,
+      "centroid_long": -122.20468568033274
+    },
+    {
+      "id": 11,
+      "name": "Delridge / Riverton (Seattle)",
+      "centroid_lat": 47.58461927312775,
+      "centroid_long": -122.28429900881058
+    },
+    {
+      "id": 12,
+      "name": "Des Moines / Woodmont",
+      "centroid_lat": 47.348882145653874,
+      "centroid_long": -122.18262333594362
+    },
+    {
+      "id": 13,
+      "name": "Columbia City / Beacon Hill (Seattle)",
+      "centroid_lat": 47.582213408939296,
+      "centroid_long": -122.02770246831221
+    },
+    {
+      "id": 14,
+      "name": "White Center / Boulevard Park",
+      "centroid_lat": 47.53863634020619,
+      "centroid_long": -122.38040399484537
+    }
+  ]
+}
