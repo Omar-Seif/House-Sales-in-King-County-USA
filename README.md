@@ -102,26 +102,26 @@ This provides a realistic and business-oriented price range.
 ## 📂 Project Structure
 
 
-project/
-├── data/
-│   ├── data_wrangling.csv
-│   ├── eda_FE.csv
-│   └── kc_house_data.csv
-├── json/
-│   ├── geo_meta.json
-│   └── interval.json
-├── model/
-│   ├── geo_clusterer.joblib
-│   └── model.joblib
-├── src/
-│   ├── data_wrangling.ipynb
-│   ├── eda_FE.ipynb
-│   ├── lat_long_cord.ipynb
-│   ├── ML-pipeline.ipynb
-│   └── house_sales_app.py
-├── README.md
-└── requirements.txt
-
+project/    
+├── data/    
+│   ├── data_wrangling.csv    
+│   ├── eda_FE.csv    
+│   └── kc_house_data.csv    
+├── json/    
+│   ├── geo_meta.json    
+│   └── interval.json    
+├── model/    
+│   ├── geo_clusterer.joblib    
+│   └── model.joblib    
+├── src/    
+│   ├── data_wrangling.ipynb    
+│   ├── eda_FE.ipynb    
+│   ├── lat_long_cord.ipynb    
+│   ├── ML-pipeline.ipynb    
+│   └── house_sales_app.py    
+├── README.md    
+└── requirements.txt    
+  
 
 ---
 
